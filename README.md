@@ -57,4 +57,10 @@ The model not only extracts financial entities (e.g., organizations, money, loca
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Installation & Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/fin-ner-sentiment.git
+cd fin-ner-sentiment
+
