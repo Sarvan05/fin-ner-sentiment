@@ -65,6 +65,8 @@ git clone https://github.com/your-username/fin-ner-sentiment.git
 cd fin-ner-sentiment
 ```
 
+---
+
 ## 🚀 How to Run
 
 You can run the training and inference code using:
@@ -79,6 +81,8 @@ You can run the training and inference code using:
    ```bash
    pip install transformers datasets evaluate seqeval
    ```
+
+---
    
 ## 📈 Use Cases
 
