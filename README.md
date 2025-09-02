@@ -63,6 +63,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/fin-ner-sentiment.git
 cd fin-ner-sentiment
+```
 
 ## 🚀 How to Run
 
@@ -77,3 +78,14 @@ You can run the training and inference code using:
 2. Install dependencies:
    ```bash
    pip install transformers datasets evaluate seqeval
+   ```
+   
+📈 Use Cases
+
+Financial news analysis
+
+Automated investment reports
+
+Market sentiment extraction
+
+Risk assessment & compliance monitoring
