@@ -83,6 +83,16 @@ You can run the training and inference code using:
    ```
 
 ---
+
+## 🙌 Acknowledgments
+
+Hugging Face Transformers
+
+FinEntity Dataset
+
+SeqEval for NER evaluation
+
+---
    
 ## 📈 Use Cases
 
@@ -93,3 +103,5 @@ Automated investment reports
 Market sentiment extraction
 
 Risk assessment & compliance monitoring
+
+---
