@@ -80,7 +80,7 @@ You can run the training and inference code using:
    pip install transformers datasets evaluate seqeval
    ```
    
-📈 Use Cases
+## 📈 Use Cases
 
 Financial news analysis
 
