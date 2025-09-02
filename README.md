@@ -67,23 +67,6 @@ cd fin-ner-sentiment
 
 ---
 
-## 🚀 How to Run
-
-You can run the training and inference code using:
-
-### ▶️ Google Colab (Recommended)
-1. Open the notebook in Colab  
-2. Run the cells step by step (from dataset loading → training → evaluation → inference)  
-
-### 💻 Jupyter Notebook
-1. Clone the repository  
-2. Install dependencies:
-   ```bash
-   pip install transformers datasets evaluate seqeval
-   ```
-
----
-
 ## 🙌 Acknowledgments
 
 Hugging Face Transformers
